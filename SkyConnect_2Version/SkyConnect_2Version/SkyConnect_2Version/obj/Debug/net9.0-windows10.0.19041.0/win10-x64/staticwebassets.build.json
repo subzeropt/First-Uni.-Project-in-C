@@ -1,0 +1,2062 @@
+{
+  "Version": 1,
+  "Hash": "BTb7t2PAw5RWQF2dMiN7UEshG8AqVzKNCZh7QsqhdB0=",
+  "Source": "SkyConnect_2Version",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SkyConnect_2Version\\wwwroot",
+      "Source": "SkyConnect_2Version",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9hhcs3478m-e5tk7yf482.gz",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9sb0w9jnhl",
+      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fww9oye02k-8inm30yfxf.gz",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hqhy79rta0-zqpyvqkef1.gz",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "SkyConnect_2Version#[.{fingerprint=zqpyvqkef1}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SkyConnect_2Version.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6fbwpwc1zu",
+      "Integrity": "0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SkyConnect_2Version.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\nl3wus95gi-zqpyvqkef1.gz",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "SkyConnect_2Version#[.{fingerprint=zqpyvqkef1}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\SkyConnect_2Version.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6fbwpwc1zu",
+      "Integrity": "0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\SkyConnect_2Version.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rluxlb62u0-k7zppg6lda.gz",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=k7zppg6lda}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4l72csomus",
+      "Integrity": "6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vpfdwpm0ud-6gzpyzhau4.gz",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SkyConnect_2Version.styles.css",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "SkyConnect_2Version#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "zqpyvqkef1",
+      "Integrity": "250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SkyConnect_2Version.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\SkyConnect_2Version.bundle.scp.css",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "SkyConnect_2Version#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "zqpyvqkef1",
+      "Integrity": "250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\SkyConnect_2Version.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\app.css",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5tk7yf482",
+      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\index.html",
+      "SourceId": "SkyConnect_2Version",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k7zppg6lda",
+      "Integrity": "gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9hhcs3478m-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9hhcs3478m-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9hhcs3478m-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9hhcs3478m-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vpfdwpm0ud-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vpfdwpm0ud-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vpfdwpm0ud-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fww9oye02k-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fww9oye02k-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\vpfdwpm0ud-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fww9oye02k-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fww9oye02k-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rluxlb62u0-k7zppg6lda.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002227171492"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rluxlb62u0-k7zppg6lda.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o="
+        }
+      ]
+    },
+    {
+      "Route": "index.k7zppg6lda.html",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rluxlb62u0-k7zppg6lda.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002227171492"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7zppg6lda"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg="
+        }
+      ]
+    },
+    {
+      "Route": "index.k7zppg6lda.html",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7zppg6lda"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBfofSlLIo0Z1DJDYCscFVXLX+VwQIfuf1gAKFtpXYg="
+        }
+      ]
+    },
+    {
+      "Route": "index.k7zppg6lda.html.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\rluxlb62u0-k7zppg6lda.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:44:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7zppg6lda"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6A4QOXKGxBoiGcW8qpascmn4e4a87L0qpEySpUk/k4o="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.bundle.scp.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\nl3wus95gi-zqpyvqkef1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.bundle.scp.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\SkyConnect_2Version.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\nl3wus95gi-zqpyvqkef1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.styles.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hqhy79rta0-zqpyvqkef1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.styles.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SkyConnect_2Version.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.styles.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hqhy79rta0-zqpyvqkef1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.zqpyvqkef1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\nl3wus95gi-zqpyvqkef1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqpyvqkef1"
+        },
+        {
+          "Name": "label",
+          "Value": "SkyConnect_2Version.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.zqpyvqkef1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\SkyConnect_2Version.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqpyvqkef1"
+        },
+        {
+          "Name": "label",
+          "Value": "SkyConnect_2Version.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.zqpyvqkef1.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\nl3wus95gi-zqpyvqkef1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqpyvqkef1"
+        },
+        {
+          "Name": "label",
+          "Value": "SkyConnect_2Version.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.zqpyvqkef1.styles.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hqhy79rta0-zqpyvqkef1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000615006150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqpyvqkef1"
+        },
+        {
+          "Name": "label",
+          "Value": "SkyConnect_2Version.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.zqpyvqkef1.styles.css",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\SkyConnect_2Version.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqpyvqkef1"
+        },
+        {
+          "Name": "label",
+          "Value": "SkyConnect_2Version.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-250vRNgmt9kVkfd7gVeM2++uvWp3OYDgwYq+SWpqutk="
+        }
+      ]
+    },
+    {
+      "Route": "SkyConnect_2Version.zqpyvqkef1.styles.css.gz",
+      "AssetFile": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hqhy79rta0-zqpyvqkef1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 11:45:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqpyvqkef1"
+        },
+        {
+          "Name": "label",
+          "Value": "SkyConnect_2Version.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jraqDNgAFxweermkkS6kVTbzxMfWiS/jDiPR5JBgSI="
+        }
+      ]
+    }
+  ]
+}

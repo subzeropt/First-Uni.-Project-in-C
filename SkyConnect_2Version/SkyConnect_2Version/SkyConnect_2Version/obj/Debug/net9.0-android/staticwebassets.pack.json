@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\SkyConnect_2Version.styles.css",
+      "PackagePath": "staticwebassets\\SkyConnect_2Version.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programaçao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.SkyConnect_2Version.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.SkyConnect_2Version.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.SkyConnect_2Version.props",
+      "PackagePath": "build\\SkyConnect_2Version.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.SkyConnect_2Version.props",
+      "PackagePath": "buildMultiTargeting\\SkyConnect_2Version.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.SkyConnect_2Version.props",
+      "PackagePath": "buildTransitive\\SkyConnect_2Version.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

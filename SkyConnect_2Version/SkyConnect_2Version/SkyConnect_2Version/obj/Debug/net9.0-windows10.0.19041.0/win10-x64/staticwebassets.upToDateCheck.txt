@@ -1,0 +1,8 @@
+C:\Users\manue_2gpicge\OneDrive\Universidade\Programaçao\source\SkyConnect_2Version\SkyConnect_2Version\wwwroot\css\app.css
+C:\Users\manue_2gpicge\OneDrive\Universidade\Programaçao\source\SkyConnect_2Version\SkyConnect_2Version\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\manue_2gpicge\OneDrive\Universidade\Programaçao\source\SkyConnect_2Version\SkyConnect_2Version\wwwroot\index.html
+C:\Users\manue_2gpicge\OneDrive\Universidade\Programaçao\source\SkyConnect_2Version\SkyConnect_2Version\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BADF5DD-DD58-4879-88BD-B1A104CAFCBE}|SkyConnect_2Version\\SkyConnect_2Version.csproj|c:\\users\\manue_2gpicge\\onedrive\\universidade\\programa\u00E7ao\\source\\skyconnect_2version\\skyconnect_2version\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BADF5DD-DD58-4879-88BD-B1A104CAFCBE}|SkyConnect_2Version\\SkyConnect_2Version.csproj|solutionrelative:skyconnect_2version\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3DC4DA-C8CB-40A3-B2E5-5314C820CB49}|Pages{1E3DC4DA-C8CB-40A3-B2E5-5314C820CB49}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\Weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E3DC4DA-C8CB-40A3-B2E5-5314C820CB49}|Pages{1E3DC4DA-C8CB-40A3-B2E5-5314C820CB49}|solutionrelative:Weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709CF6DE-C18C-4D57-A367-5AF1D4FC525D}|Controllers{709CF6DE-C18C-4D57-A367-5AF1D4FC525D}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709CF6DE-C18C-4D57-A367-5AF1D4FC525D}|Controllers{709CF6DE-C18C-4D57-A367-5AF1D4FC525D}|solutionrelative:AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|Services{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\WeatherService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|Services{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|solutionrelative:WeatherService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D29D59-2CF0-42BC-B056-40B37CFDA081}|ViewModels{60D29D59-2CF0-42BC-B056-40B37CFDA081}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D29D59-2CF0-42BC-B056-40B37CFDA081}|ViewModels{60D29D59-2CF0-42BC-B056-40B37CFDA081}|solutionrelative:MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BADF5DD-DD58-4879-88BD-B1A104CAFCBE}|SkyConnect_2Version\\SkyConnect_2Version.csproj|c:\\users\\manue_2gpicge\\onedrive\\universidade\\programa\u00E7ao\\source\\skyconnect_2version\\skyconnect_2version\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BADF5DD-DD58-4879-88BD-B1A104CAFCBE}|SkyConnect_2Version\\SkyConnect_2Version.csproj|solutionrelative:skyconnect_2version\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BADF5DD-DD58-4879-88BD-B1A104CAFCBE}|SkyConnect_2Version\\SkyConnect_2Version.csproj|c:\\users\\manue_2gpicge\\onedrive\\universidade\\programa\u00E7ao\\source\\skyconnect_2version\\skyconnect_2version\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BADF5DD-DD58-4879-88BD-B1A104CAFCBE}|SkyConnect_2Version\\SkyConnect_2Version.csproj|solutionrelative:skyconnect_2version\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|Services{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|Services{2EC82D9C-CFC8-4733-BD1C-A9AA0AB38927}|solutionrelative:IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Models{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Models{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Models{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Models{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SkyConnect_2Version\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\App.xaml.cs",
+              "RelativeToolTip": "SkyConnect_2Version\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:27:38.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "SkyConnect_2Version\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\MauiProgram.cs",
+              "RelativeToolTip": "SkyConnect_2Version\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:29:38.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\Weather.razor",
+              "RelativeDocumentMoniker": "Weather.razor",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\Weather.razor",
+              "RelativeToolTip": "Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T12:28:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MainViewModel.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\MainViewModel.cs",
+              "RelativeToolTip": "MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:27:08.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\AppController.cs",
+              "RelativeDocumentMoniker": "AppController.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\AppController.cs",
+              "RelativeToolTip": "AppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:25:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherService.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\WeatherService.cs",
+              "RelativeToolTip": "WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:22:41.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IAuthService.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\IAuthService.cs",
+              "RelativeToolTip": "IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:21:22.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:02:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:59:44.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SkyConnect_2Version\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\OneDrive\\Universidade\\Programa\u00E7ao\\source\\SkyConnect_2Version\\SkyConnect_2Version\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "SkyConnect_2Version\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:49:15.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
